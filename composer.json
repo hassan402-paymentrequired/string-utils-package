@@ -1,5 +1,5 @@
 {
-    "name": "hassan/php-string-utils",
+    "name": "hassancodephp/php-string-utils",
     "description": "A PHP package for string utilities.",
     "type": "library",
     "autoload": {
