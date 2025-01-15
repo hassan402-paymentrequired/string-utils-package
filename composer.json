@@ -1,5 +1,6 @@
 {
-    "name": "hassan/first-package",
+    "name": "hassan/php-string-utils",
+    "description": "A PHP package for string utilities.",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -14,5 +15,6 @@
     ],
     "require-dev": {
         "phpunit/phpunit": "^11.5"
-    }
+    },
+    "homepage": "https://github.com/hassan402-paymentrequired/string-utils-package"
 }
